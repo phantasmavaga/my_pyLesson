@@ -18,3 +18,6 @@ while True:
     # Eğer kullanıcı geçersiz bir cevap verirse tekrar soruyoruz
     else:
         print("Lütfen yalnızca 1 (Doğru) veya 0 (Yanlış) girin.")
+
+#bu iki cevaptan birini vermediği sürece döngü devam eder
+#ve spesifik olarak bu iki cevaptan birini aldığı anda döngüden çıkar
