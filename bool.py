@@ -21,3 +21,4 @@ while True:
 
 #bu iki cevaptan birini vermediği sürece döngü devam eder
 #ve spesifik olarak bu iki cevaptan birini aldığı anda döngüden çıkar
+print(type(cevap))#verilen cevabın tipi şarttır
